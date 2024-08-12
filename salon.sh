@@ -13,6 +13,7 @@ MAIN_MENU(){
   done
 
   read SERVICE_SELECTION
+  echo -e "Hola"
 }
 
 MAIN_MENU
